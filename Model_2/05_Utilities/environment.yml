@@ -1,0 +1,7 @@
+name: assignment3_regression_env
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
