@@ -1,3 +1,0 @@
-# Abalone Assumptions Report
-
-Placeholder.
